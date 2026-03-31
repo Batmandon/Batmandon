@@ -5,7 +5,7 @@ I focus on building real systems and shipping products to users.
 
 ---
 
-🧠 Tech Stack
+# Tech Stack
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 "FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -17,23 +17,23 @@ I focus on building real systems and shipping products to users.
 
 ---
 
-🚀 Projects
+# Projects
 
-🧠 Medical AI Report Analyzer
+# Medical AI Report Analyzer
 
 AI system that analyzes medical reports and generates useful summaries.
 
-🔐 FastAPI Authentication System
+# FastAPI Authentication System
 
 Secure backend authentication system with login, registration, and protected routes.
 
-💊 Pharmacy Inventory System
+# Pharmacy Inventory System
 
 Backend system for managing pharmacy medicine inventory and stock.
 
 ---
 
-📚 Currently Learning
+# Currently Learning
 
 - Frontend development to ship full products
 - System design and scalable backend systems
@@ -41,7 +41,7 @@ Backend system for managing pharmacy medicine inventory and stock.
 
 ---
 
-📊 GitHub Stats
+# GitHub Stats
 
 "GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Batmandon&show_icons=true&theme=tokyonight)
 
