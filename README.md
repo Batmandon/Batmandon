@@ -1,4 +1,4 @@
-👋 Hi, I'm Batman
+Hi, I'm Batman
 
 Backend-focused developer building full-stack AI applications.
 I focus on building real systems and shipping products to users.
