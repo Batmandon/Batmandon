@@ -44,4 +44,6 @@ Backend system for managing pharmacy medicine inventory and stock.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Batmandon&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Batmandon&layout=compact&theme=tokyonight)
+
 ⭐ Always building and improving.
