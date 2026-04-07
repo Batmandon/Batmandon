@@ -35,7 +35,6 @@ Backend system for managing pharmacy medicine inventory and stock.
 
 - Frontend development to ship full products
 - System design and scalable backend systems
-- Data structures & algorithms
 
 ---
 
