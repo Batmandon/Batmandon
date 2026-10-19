@@ -32,8 +32,6 @@ Backend system for managing pharmacy medicine inventory and stock.
 ---
 
 # Currently Learning
-
-- Frontend development to ship full products
 - System design and scalable backend systems
 
 ---
