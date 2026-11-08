@@ -25,9 +25,9 @@ AI system that analyzes medical reports and generates useful summaries.
 
 Secure backend authentication system with login, registration, and protected routes.
 
-# Pharmacy Inventory System
+# Pharmacy Management Software
 
-Backend system for managing pharmacy medicine inventory and stock.
+Full stack system for Pharmacy to manage customers orders and also their inventory.
 
 ---
 
