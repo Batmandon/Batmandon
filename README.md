@@ -36,9 +36,4 @@ Full stack system for Pharmacy to manage customers orders and also their invento
 
 ---
 
-
-##  GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Batmandon&theme=tokyonight)
-
 ⭐ Always building and improving.
